@@ -33,6 +33,7 @@ These technologies **complement** each other in deep space missions like **Manga
 ### S-Matrix for 2-Port Network:
 
 [b₁] [S₁₁ S₁₂] [a₁]
+
 [b₂] = [S₂₁ S₂₂] [a₂]
 
 yaml
